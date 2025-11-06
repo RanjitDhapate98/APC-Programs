@@ -1,5 +1,5 @@
 f = open("demo.txt", "w")  
-f.write("My name is Abhishek...")
+f.write("My name is Ranjit...")
 f.close()
 
 
@@ -12,6 +12,7 @@ f.close()
 f = open("demo.txt", "a")
 f.write("I am an Engineering Student...")
 f.close()
+
 
 
 
